@@ -10,3 +10,8 @@ b)Crear en el archivo creado en modules una clase.
 c)importar la clase en este archivo y crear unas instancia de la misma.
 d) subir la rama al repositorio remoto
 '''
+
+
+from modules.cami import resta
+restar = resta(8, 3)
+print (restar)
