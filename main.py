@@ -12,10 +12,11 @@ d) subir la rama al repositorio remoto
 '''
 from modules.cami import resta
 from modules.Roman_Rubiolo import suma
+from modules.valbril import mulitiplicar 
 
 restar = resta(8, 3)
 print (restar)
 sumar= suma(21, 21)
 print(sumar)
-
-
+carmelo= mulitiplicar(4,2)
+print(caramelo)
