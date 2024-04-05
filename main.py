@@ -10,3 +10,6 @@ b)Crear en el archivo creado en modules una clase.
 c)importar la clase en este archivo y crear unas instancia de la misma.
 d) subir la rama al repositorio remoto
 '''
+from modules.abril import division
+
+dividir = division(10,5)
