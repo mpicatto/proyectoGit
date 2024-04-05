@@ -13,10 +13,13 @@ d) subir la rama al repositorio remoto
 from modules.cami import resta
 from modules.Roman_Rubiolo import suma
 from modules.valbril import multiplicar
+from modules.abril import division
 
 restar = resta(8, 3)
-print (restar)
+print(restar)
 sumar= suma(21, 21)
 print(sumar)
 multiplicacion = multiplicar (7,2)
 print(multiplicacion)
+dividir = division(10,5)
+print(dividir)
