@@ -10,3 +10,7 @@ b)Crear en el archivo creado en modules una clase.
 c)importar la clase en este archivo y crear unas instancia de la misma.
 d) subir la rama al repositorio remoto
 '''
+from modules.valbril import mulitiplicar 
+mulitiplicar = mulitiplicar( 10,2)
+
+carmelo= mulitiplicar(4,2)
